@@ -1,0 +1,5 @@
+node_modules/
+build/
+.bfg-report/
+package-lock.json
+*.log
